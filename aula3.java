@@ -67,6 +67,7 @@ switch (variavelASerTestada) {
 
 
 
+
 // Um exemplo de funcionamento para imprimir o nome do mês:
 
 public class TestaMes {
@@ -121,7 +122,5 @@ public class TestaMes {
 
 
 
-
 // O break irá interromper a execução do caso que o contém, para as outras condições não serem analisadas e executadas.
-
 // Se nenhuma condição for aceita, o código do default é que será executado. Por exemplo, se o mês for 13, a impressão será Mês inválido.
