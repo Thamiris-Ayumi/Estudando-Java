@@ -37,7 +37,7 @@ public class TestaPontoFlutuante {
 
     public static void main(String[] args){
 
-        // Declarando variáveis do tipo DOBLE (ponto flutuante / número decimal)
+        // Declarando variáveis do tipo DOUBLE (ponto flutuante / número decimal)
         double salario;
         salario = 1250.70;
 
