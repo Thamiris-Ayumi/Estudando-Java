@@ -4,7 +4,7 @@
 // ln = pular linha
 // Para exibir texto é obrigatório utilizar aspas duplas e finalizar com ponto e vírgula
 // Todo código java precisa estar necessariamente dentro de uma class (neste caso é o class Programa)
-// Essa class poderá ser "chamada" posteriomente no cmd
+// Essa class poderá ser "chamada" posteriormente no cmd
 // main = principal
 
 
